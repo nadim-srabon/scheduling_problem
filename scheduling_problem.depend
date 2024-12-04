@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733330341 source:e:\github\scheduling_problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
